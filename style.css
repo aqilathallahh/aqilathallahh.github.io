@@ -1,0 +1,29 @@
+*
+html {
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    height: 100vh;
+}
+
+body{
+    background-color: goldenrod;
+}
+
+div {
+    background-color: crimson;
+}
+
+.container-content {
+background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.img-content {
+width: 30%;
+height: 30%;
+}
